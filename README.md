@@ -43,6 +43,13 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=adseng" />
 </div>
 
+### Funny project
+- <a target='_blank' href='https://adseng.github.io/me/'>我的笔记</a>
+- <a target='_blank' href='https://adseng.github.io/xbox-controller/'>浏览器监听xbox手柄</a>
+- <a target='_blank' href='https://github.com/adseng/threejs-img'>threejs 优化</a>
+- <a target='_blank' href='https://adseng.github.io/steel-button/'>不锈钢button</a>
+- <a target='_blank' href='https://adseng.github.io/lucky-turnplate/'>幸运转盘抽奖</a>
+
 
 
 
